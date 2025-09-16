@@ -1,0 +1,60 @@
+{
+  "category": "ci-cd",
+  "created_date": "2025-09-15T22:48:57.299936",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "buildkite is a free and open-source CI agent. Buildkite provides on-premises agents for CI/CD pipelines",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/ci-cd/buildkite",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/ci-cd/buildkite",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.299963",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "buildkite",
+  "repository_url": "https://github.com/howtomgr/buildkite",
+  "spec_version": "2.0",
+  "subcategory": "ci-cd",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "ci-cd",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "buildkite Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/ci-cd/buildkite"
+}
